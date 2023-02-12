@@ -2,5 +2,5 @@ homepage: "https://adswap.se"
 documentation: "https://github.com/UnknownTagr/monitor"
 versions:
   # Latest version
-  - sha: 6d63ebba0d23dd00fc80a0719b38253cb4ab99e2
+  - sha: b25c1b8a7ecc11735a28b2eed073f5af19bb85a6
     changeNotes: Initial release.

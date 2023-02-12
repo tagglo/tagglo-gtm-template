@@ -14,6 +14,12 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Adswap Tag Monitor",
+    "categories": [
+    "ADVERTISING",
+    "ANALYTICS",
+    "MARKETING",
+    "SOCIAL"
+  ],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
