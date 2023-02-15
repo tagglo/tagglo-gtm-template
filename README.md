@@ -23,5 +23,5 @@ This is a template for Adswap Tag Monitoring. Use this to monitor any tag in Goo
 10. Choose "Custom Event" as triggering type
 11. Add .* as event name
 12. Selcet "All custom events"
-13. Reference to this Trigger should automaticly be added to the tag (Adswap Tag Monitor)
+13. Reference to this Trigger should automatically be added to the tag (Adswap Tag Monitor)
 14. Save the tag and deploy your container
