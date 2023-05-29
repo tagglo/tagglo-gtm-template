@@ -2,8 +2,6 @@
 
 This is a template for Tagglo Tag Monitoring. Use this to monitor any tag in Google Tag Manager.
 
-This is a template for Tagglo Tag Monitoring. Use this to monitor any tag in Google Tag Manager.
-
 ## How to add our tag to your workspace
 
 1. Go to Community Template Gallery in Google Tag Manager
