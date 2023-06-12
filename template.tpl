@@ -542,7 +542,7 @@ function sendPixelRequest(eventPayload, tagsArray) {
   }
 
   const eventJsonString = JSON.stringify(eventPayload);
-  const base64 = toBase64(eventJsonString);
+  const base64 = encodeUriComponent(toBase64(eventJsonString));
   const pixelUrl = endPoint + "?ed=" + base64;
 
   log(eventPayload);
@@ -932,5 +932,3 @@ scenarios: []
 ___NOTES___
 
 Created on 2022-10-30 22:33:23
-
-
