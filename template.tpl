@@ -6,6 +6,12 @@
   "version": 1,
   "securityGroups": [],
   "displayName": "Tagglo Tag Monitor",
+  "categories": [
+    "ADVERTISING",
+    "ANALYTICS",
+    "MARKETING",
+    "TAG_MANAGEMENT"
+  ],
   "brand": {
     "id": "https://github.com/tagglo",
     "displayName": "Tagglo",
