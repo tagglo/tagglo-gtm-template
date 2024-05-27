@@ -2,5 +2,5 @@ homepage: "https://tagglo.co"
 documentation: "https://github.com/tagglo/tagglo-gtm-template"
 versions:
   # Latest version
-  - sha: 570c80ad9aab68c2863fb7dc5c5a22688dcd7f45
+  - sha: 43a524b4f4f1b9b22e55592cc4cf06d061e735fa
     changeNotes: Initial release.
