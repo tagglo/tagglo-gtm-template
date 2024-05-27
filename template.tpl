@@ -15,9 +15,7 @@ ___INFO___
   "securityGroups": [],
   "displayName": "Tagglo Tag Monitor",
   "categories": [
-    "ADVERTISING",
     "ANALYTICS",
-    "MARKETING",
     "TAG_MANAGEMENT"
   ],
   "brand": {
